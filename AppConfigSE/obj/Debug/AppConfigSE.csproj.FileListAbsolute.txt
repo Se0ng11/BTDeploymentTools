@@ -1,0 +1,17 @@
+C:\Users\608905523\desktop\DBScriptDeploymentTools\AppConfigSE\bin\Debug\AppConfigSE.dll
+C:\Users\608905523\desktop\DBScriptDeploymentTools\AppConfigSE\bin\Debug\AppConfigSE.pdb
+C:\Users\608905523\desktop\DBScriptDeploymentTools\DBScriptDeploymentTools\bin\Debug\AppConfigSE.dll
+C:\Users\608905523\desktop\DBScriptDeploymentTools\DBScriptDeploymentTools\bin\Debug\AppConfigSE.pdb
+C:\Users\608905523\desktop\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.dll
+C:\Users\608905523\desktop\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.pdb
+C:\Users\608905523\desktop\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.csprojResolveAssemblyReference.cache
+C:\Users\608905523\desktop\Junk\DBScriptDeploymentTools\DBScriptDeploymentTools\bin\Debug\AppConfigSE.dll
+C:\Users\608905523\desktop\Junk\DBScriptDeploymentTools\DBScriptDeploymentTools\bin\Debug\AppConfigSE.pdb
+C:\Users\608905523\desktop\Junk\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.csprojResolveAssemblyReference.cache
+C:\Users\608905523\desktop\Junk\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.dll
+C:\Users\608905523\desktop\Junk\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.pdb
+C:\Users\608905523\desktop\Self\DBScriptDeploymentTools\DBScriptDeploymentTools\bin\Debug\AppConfigSE.dll
+C:\Users\608905523\desktop\Self\DBScriptDeploymentTools\DBScriptDeploymentTools\bin\Debug\AppConfigSE.pdb
+C:\Users\608905523\desktop\Self\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.dll
+C:\Users\608905523\desktop\Self\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.pdb
+C:\Users\608905523\desktop\Self\DBScriptDeploymentTools\AppConfigSE\obj\Debug\AppConfigSE.csprojResolveAssemblyReference.cache

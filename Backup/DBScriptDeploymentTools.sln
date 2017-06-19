@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBScriptDeploymentTools", "DBScriptDeploymentTools\DBScriptDeploymentTools.csproj", "{5953A549-F103-48F9-AC8D-D164DBC87B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppConfigSE", "AppConfigSE\AppConfigSE.csproj", "{03E65F35-79A2-43EE-91A8-9CD61F179351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5953A549-F103-48F9-AC8D-D164DBC87B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5953A549-F103-48F9-AC8D-D164DBC87B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5953A549-F103-48F9-AC8D-D164DBC87B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5953A549-F103-48F9-AC8D-D164DBC87B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E65F35-79A2-43EE-91A8-9CD61F179351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E65F35-79A2-43EE-91A8-9CD61F179351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E65F35-79A2-43EE-91A8-9CD61F179351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E65F35-79A2-43EE-91A8-9CD61F179351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
